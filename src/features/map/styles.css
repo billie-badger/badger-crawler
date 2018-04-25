@@ -1,10 +1,10 @@
 .tile {
     display: inline-flex;
-    background-color: #FFB067;
+    background-color: #232323;
 }
 
 .sand {
-    background-color: #FFB067;
+    background-color: #232323;
 }
 
 .rock {
@@ -13,4 +13,8 @@
 
 .tree {
     background-image: url('/tiles/tree.png');
+}
+
+.chest {
+    background-image: url('/tiles/chest.png');
 }
